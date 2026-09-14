@@ -16,7 +16,7 @@ env/
 ENV/
 
 # Datasets & Heavy Data Files
-data/
+/data/
 *.wav
 *.mp3
 *.ogg
